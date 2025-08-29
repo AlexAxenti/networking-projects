@@ -19,11 +19,11 @@ Store and display the last N messages when a user joins.
 4. Colored Output
 Use ANSI escape codes to color usernames or system messages for better readability.
 
-5. Server-Side Commands
-Add admin commands (e.g., /kick username) to remove users from the chat.
-
 6. Authentication
 Require users to log in with a password or register an account.
+
+5. User Roles
+Add regular/admin roles as well as admin commands (e.g., /kick username).
 
 7. GUI Client
 Build a graphical client using Tkinter or PyQt for a more user-friendly experience.
